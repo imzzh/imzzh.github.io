@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[站长导航]]></title>
+  <link href="http://www.zznav.com/atom.xml" rel="self"/>
+  <link href="http://www.zznav.com/"/>
+  <updated>2013-11-14T16:45:25+08:00</updated>
+  <id>http://www.zznav.com/</id>
+  <generator uri="http://gitcafe.com/lizheming/pmblog">PMBlog</generator>
+
+    <entry>
+    <title type="html"><![CDATA[VMBox-OpenVZ 3GB 50GB 1TB $7/月]]></title>
+    <link href="http://www.zznav.com/6.html"/>
+    <id>http://www.zznav.com/6.html</id>
+    <updated>2013-11-14T00:00:00+08:00</updated>
+    <content type="html"><![CDATA[<p><img src="image/vmbox.jpg" alt="" />
+VMBox又是一家新开的主机商本次提供大内存的VPS促销活动，数据中心在凤凰城和荷兰，提供每个的SSL。</p>
+
+<h1>3GB vps</h1>
+
+<blockquote>
+  <p>50GB SATA3 RAID10 Storage<br />
+  3GB DDR3 RAM<br />
+  4 vCPU Cores (E3 v2's)<br />
+  1TB Premium Bandwidth<br />
+  1Gbps Port<br />
+  1 IPv4 Address<br /></p>
+  
+  <p>$7/Month | <a href="https://my.vmbox.co/cart.php?a=add&amp;pid=66">凤凰城购买链接</a> | <a href="https://my.vmbox.co/cart.php?a=add&amp;pid=63">荷兰购买链接</a></p>
+</blockquote>
+
+<h1>测试地址</h1>
+
+<blockquote>
+  <p>Amsterdam（荷兰） NLTest IP: 198.20.96.18<br />
+  Test File: http://ams.vmbox.co/100mb.test</p>
+  
+  <p>Phoenix（凤凰城）, AZ, USATest IP: 108.178.61.34<br />
+  Test File: http://phx.vmbox.co/100mb.test</p>
+</blockquote>
+]]></content>
+  </entry>
+    <entry>
+    <title type="html"><![CDATA[Prohostingserver-OpenVZ 128MB 10GB 500GB $10/年]]></title>
+    <link href="http://www.zznav.com/5.html"/>
+    <id>http://www.zznav.com/5.html</id>
+    <updated>2013-11-13T00:00:00+08:00</updated>
+    <content type="html"><![CDATA[<p><img src="image/prohostingserver.jpg" alt="" />
+Prohostingserver是一家非常非常新的主机商，目前提供了一个8折优惠码。<!--more--><br />
+优惠码：<code>LET20OFF</code>（应该适用于所有订单）<br />
+PS：服务器配置为E5的CPU <br />
+ 有七天退款，请仔细看好服务条款，主机商非常新，购买需谨慎！</p>
+
+<h1>VPS PLAN 1</h1>
+
+<blockquote>
+  <p>128MB RAM<br />
+  256M Burst RAM<br />
+  10GB Disk<br />
+  500 GB Bandwidth <br />
+  1 IP Address <br />
+  1 E5520 2.26Ghz CPU<br /></p>
+  
+  <p>$10.39/year | <a href="https://www.clients.prohostingserver.com/cart.php?a=add&amp;pid=10">购买链接</a></p>
+</blockquote>
+
+<h1>测试地址</h1>
+
+<p>暂无</p>
+]]></content>
+  </entry>
+    <entry>
+    <title type="html"><![CDATA[XLvps-$13/年KVM 192MB 10GB 100GB G口 多数据中心]]></title>
+    <link href="http://www.zznav.com/4.html"/>
+    <id>http://www.zznav.com/4.html</id>
+    <updated>2013-11-13T00:00:00+08:00</updated>
+    <content type="html"><![CDATA[<p>XLvps是新开的一家主机商，域名今年6月份注册到2016年，NS使用的是TheNewsgroups（域名98年注册）的，具XLxps网站介绍是TheNewsgroups的姊妹公司。<!--more--><br />
+本次促销有3个数据中心可选，分别为迪尔菲尔德、芝加哥还有凤凰城。</p>
+
+<p><img src="image/xlvps.gif" alt="" /></p>
+
+<h1>192MB VPS</h1>
+
+<blockquote>
+  <p>CPU ：1 vCPU Core<br />
+  内存：192MB RAM <br />
+  硬盘：10GB Raid 10 Diskspace<br />
+  流量：100GB Bandwidth<br />
+  端口：1Gbps Port Speed<br />
+  IP数：1x IPv4 Address<br />
+  KVM Virtualization / Virtualizor Control Panel <br /></p>
+  
+  <p>$13/year | <a href="https://www.xlvps.com/clients/cart.php?a=add&amp;pid=7&amp;carttpl=cart">购买链接</a></p>
+</blockquote>
+
+<h1>测试地址</h1>
+
+<blockquote>
+  <p>Chicago（芝加哥） : Test IP: 208.82.101.229<br />
+  Deerfield（迪尔菲尔德）, FL : Test IP: 64.234.223.2<br />
+  Phoenix（凤凰城） : Test IP: 23.226.68.130<br /></p>
+</blockquote>
+]]></content>
+  </entry>
+    <entry>
+    <title type="html"><![CDATA[AlphaRacks-$2.5/月OpenVZ 256MB 50GB 500GB 洛杉矶PR]]></title>
+    <link href="http://www.zznav.com/3.html"/>
+    <id>http://www.zznav.com/3.html</id>
+    <updated>2013-11-13T00:00:00+08:00</updated>
+    <content type="html"><![CDATA[<p>AlphaRacks是一家4个月前刚开的的主机商，上个月提供过一次优惠信息，不过本地的优惠力度相比上次来说更大，数据中心为洛杉矶的PR机房。<!--more--></p>
+
+<p>服务器配置为：E3-1240v3 raid10
+PS:刚开不久的主机商，购买需谨慎！
+<img src="image/alpharacks.gif" alt="" /></p>
+
+<h1>256MB VPS</h1>
+
+<blockquote>
+  <p>CPU ：4x 3,4Ghz CPU (fair share)<br />
+  内存：256MB RAM 和 256MB vSwap<br />
+  硬盘：50GB Disk space<br />
+  流量：500GB Bandwidth<br />
+  端口：100Mbps uplink<br />
+  IP数：1x IPv4 Address<br />
+  OpenVZ/SolusVM<br />
+  优惠码: <code>LEB1</code><br />
+  $2.5/月 | <a href="https://www.alpharacks.com/myrack/cart.php?a=add&amp;pid=3&amp;carttpl=cart">购买链接</a></p>
+</blockquote>
+
+<h1>512MB VPS</h1>
+
+<blockquote>
+  <p>CPU ：4x 3,4Ghz CPU (fair share)<br />
+  内存：512MB RAM 和 512MB vSwap<br />
+  硬盘：70GB Disk space<br />
+  流量：1.5TB Bandwidth<br />
+  端口：100Mbps uplink<br />
+  IP数：1x IPv4 Address<br />
+  OpenVZ/SolusVM<br />
+  优惠码: <code>LEB2</code><br />
+  $3.99/月 | <a href="https://www.alpharacks.com/myrack/cart.php?a=add&amp;pid=34&amp;carttpl=cart">购买链接</a></p>
+</blockquote>
+
+<h1>1GB VPS</h1>
+
+<blockquote>
+  <p>CPU ：4x 3,4Ghz CPU (fair share)<br />
+  内存：1GB RAM 和 1GB vSwap<br />
+  硬盘：90GB Disk space<br />
+  流量：3.5TB Bandwidth<br />
+  端口：100Mbps uplink<br />
+  IP数：1x IPv4 Address<br />
+  OpenVZ/SolusVM<br />
+  优惠码: <code>LEB2</code><br />
+  $5.99/月 | <a href="https://www.alpharacks.com/myrack/cart.php?a=add&amp;pid=36&amp;carttpl=cart">购买链接</a></p>
+</blockquote>
+
+<h1>测试地址</h1>
+
+<blockquote>
+  <p>Test IPv4:  216.144.225.250<br />
+  Test IPv6: 2607:fcd0:0:a::1<br />
+  Test Link Download http://repos.lax-noc.com/speedtests/100mb.bin<br /></p>
+</blockquote>
+]]></content>
+  </entry>
+    <entry>
+    <title type="html"><![CDATA[GoDaddy最新注册com域名只要$0.99]]></title>
+    <link href="http://www.zznav.com/2.html"/>
+    <id>http://www.zznav.com/2.html</id>
+    <updated>2013-11-12T00:00:00+08:00</updated>
+    <content type="html"><![CDATA[<p>Godaddy最新优惠，$0.99注册com域名，第二年$9.99。<br />无需优惠码直接从以下链接进入：
+<a href="http://www.godaddy.com/deals2">http://www.godaddy.com/deals2</a>
+<img src="/image/godaddy.jpg" alt="" /></p>
+
+<blockquote>
+  <p>经测试在购物车可以显示价格0.99+0.18=1.17美元</p>
+  
+  <p>暂未购买，请有购买的同学告留言下是否有其他限制。</p>
+</blockquote>
+]]></content>
+  </entry>
+    <entry>
+    <title type="html"><![CDATA[HudsonValleyHost-$15/年OpenVZ 128MB 15GB 200GB 多数据中心]]></title>
+    <link href="http://www.zznav.com/1.html"/>
+    <id>http://www.zznav.com/1.html</id>
+    <updated>2013-11-12T00:00:00+08:00</updated>
+    <content type="html"><![CDATA[<p>HudsonValleyHost是一家老牌的主机商，具说已经提供了9年多的服务，本次提供5折的优惠，优惠后最低一款年付只要15美元。有多个数据中心可供选择，分别为水牛城，达拉斯，洛杉矶和芝加哥。<!--more--></p>
+
+<p>优惠码：<code>sept50off</code> 服务器配置为：E3 32GB raid10</p>
+
+<p>PS：这几个数据中心均不允许IRC等，允许私人代理
+<img src="image/hudsonvalleyhost.jpg" alt="" /></p>
+
+<h1>128MB VPS</h1>
+
+<blockquote>
+  <p>内存：128MB RAM <br />
+  硬盘：15GB Disk space<br />
+  流量：200GB Bandwidth<br />
+  端口：100Mbps uplink<br />
+  IP数：1x IPv4 Address<br />
+  OpenVZ/SolusVM<br /></p>
+  
+  <p>$15/year | <a href="https://billing.hudsonvalleyhost.com/cart.php?a=add&amp;pid=84">购买链接</a></p>
+</blockquote>
+
+<h1>2GB VPS</h1>
+
+<blockquote>
+  <p>内存：2GB RAM <br />
+  硬盘：80GB Disk space<br />
+  流量：2TB Bandwidth<br />
+  端口：100Mbps uplink<br />
+  IP数：1x IPv4 Address<br />
+  OpenVZ/SolusVM<br /></p>
+  
+  <p>$29/6 months | <a href="https://billing.hudsonvalleyhost.com/cart.php?a=add&amp;pid=284">购买链接</a></p>
+</blockquote>
+
+<h1>测试地址</h1>
+
+<blockquote>
+  <p>Buffalo（水牛城）, NY, USA: http://198.23.157.172/test100.bin<br />
+  Dallas（达拉斯）, TX, USA: http://198.23.135.130/test100.bin<br />
+  Los Angeles（洛杉矶）, CA, USA: http://192.210.195.194/test100.bin<br />
+  Chicago（芝加哥）, IL, USA: http://96.8.117.132/test100.bin</p>
+</blockquote>
+]]></content>
+  </entry>
+    <entry>
+    <title type="html"><![CDATA[全球最大域名注册商GoDaddy介绍]]></title>
+    <link href="http://www.zznav.com/godaddy.html"/>
+    <id>http://www.zznav.com/godaddy.html</id>
+    <updated>2013-11-12T00:00:00+08:00</updated>
+    <content type="html"><![CDATA[<p>GoDaddy是全球大域名注册商，提供域名注册、虚拟主机、VPS、独立主机，还有就是支持支付宝付款。GoDaddy还经常推出极低的价格适合于首次注册域名的用户，不过目前续费价格已经没什么优势，whios隐藏又要额外收费，界面、操作广告又挺多的，目前已经把大部分域名移往他处。
+<img src="/image/godaddy.jpg" alt="" /></p>
+]]></content>
+  </entry>
+  </feed>
