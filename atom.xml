@@ -4,7 +4,7 @@
   <title><![CDATA[站长导航]]></title>
   <link href="http://www.zznav.com/atom.xml" rel="self"/>
   <link href="http://www.zznav.com/"/>
-  <updated>2013-11-15T13:25:53+08:00</updated>
+  <updated>2013-11-15T14:44:13+08:00</updated>
   <id>http://www.zznav.com/</id>
   <generator uri="http://gitcafe.com/lizheming/pmblog">PMBlog</generator>
 
@@ -31,11 +31,11 @@ PS：注意，他们家是没有vSwap</p>
 <h1>OVZ256 VPS</h1>
 
 <blockquote>
-  <p>30GB Disk
-  500GB Bandwidth
-  256MB Memory
-  1 IPv4 Address
-  1 Ipv6 Address
+  <p>30GB Disk<br />
+  500GB Bandwidth<br />
+  256MB Memory<br />
+  1 IPv4 Address<br />
+  1 Ipv6 Address<br />
   $15/年 | <a href="https://billing.highspeedweb.net/cart.php?a=add&amp;pid=8328">购买链接</a> </p>
 </blockquote>
 
@@ -51,6 +51,65 @@ $3/月 | <a href="https://billing.highspeedweb.net/cart.php?a=add&amp;pid=8329">
 <h1>测试地址</h1>
 
 <p>Test IP 216.189.55.2 Los Angeles CA (QuadraNet)</p>
+]]></content>
+  </entry>
+    <entry>
+    <title type="html"><![CDATA[HardCloud-KVM 256MB 10GB 512GB $2.2/月]]></title>
+    <link href="http://www.zznav.com/8.html"/>
+    <id>http://www.zznav.com/8.html</id>
+    <updated>2013-11-15T00:00:00+08:00</updated>
+    <content type="html"><![CDATA[<p><img src="image/hardcloud.jpg" alt="" />
+HardCloud宣称他们是可靠和诚实的，不过分吹嘘，他们家的产品都是KVM架构，支持linux和windows，但是看了下，小钱收得不少，比如退款要收IP费$1设置费$2.5还有升级到G口也是要单独加钱的。</p>
+
+<h1>Micro Plan</h1>
+
+<blockquote>
+  <p>10GB RAID10 SSD-Cached DiskSpace<br />
+  256MB Dedicated RAM, 768MB Swap<br />
+  256GB Elastic Bandwidth (up to 512GB)<br />
+  1 vCore CPU, 1 IPv4 Address <br />
+  100mbps Port<br />
+  $2.29/月 | <a href="https://secure.hardcloud.net/cart.php?a=add&amp;pid=68">购买链接</a> </p>
+</blockquote>
+
+<h1>Plan 1</h1>
+
+<blockquote>
+  <p>15GB RAID10 SSD-Cached DiskSpace<br />
+  512MB Dedicated RAM, 1024MB Swap<br />
+  512GB Elastic Bandwidth (up to 1024GB)<br />
+  1 vCore CPU, 1 IPv4 Address<br />
+  GigE Port<br />
+  $3.95/月 | <a href="https://secure.hardcloud.net/cart.php?a=add&amp;pid=41">购买链接</a> </p>
+</blockquote>
+
+<h1>Plan 2</h1>
+
+<blockquote>
+  <p>30GB RAID10 SSD-Cached DiskSpace<br />
+  1024MB Dedicated RAM, 2048MB Swap<br />
+  756GB Elastic Bandwidth (up to 1536GB)<br />
+  1 vCore CPU, 1 IPv4 Address<br />
+  GigE Port<br />
+  $4.95/月 | <a href="https://secure.hardcloud.net/cart.php?a=add&amp;pid=40">购买链接</a></p>
+</blockquote>
+
+<h1>Plan 3</h1>
+
+<blockquote>
+  <p>40GB RAID10 SSD-Cached DiskSpace<br />
+  1536MB Dedicated RAM, 1024MB Swap<br />
+  1024GB Elastic Bandwidth (up to 2048GB)<br />
+  2 vCore CPU, 1 IPv4 Address<br />
+  GigE Port<br />
+  $6.95/月 | <a href="https://secure.hardcloud.net/cart.php?a=add&amp;pid=54">购买链接</a></p>
+</blockquote>
+
+<h1>测试地址</h1>
+
+<p>Las Vegas（拉斯维加斯） location: 162.222.128.202
+Buffalo（布法罗） location: 23.94.20.2
+Scranton（斯克兰顿） location: 199.180.115.194</p>
 ]]></content>
   </entry>
     <entry>
