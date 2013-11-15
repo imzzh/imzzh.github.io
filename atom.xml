@@ -4,17 +4,62 @@
   <title><![CDATA[站长导航]]></title>
   <link href="http://www.zznav.com/atom.xml" rel="self"/>
   <link href="http://www.zznav.com/"/>
-  <updated>2013-11-14T16:45:25+08:00</updated>
+  <updated>2013-11-15T13:25:53+08:00</updated>
   <id>http://www.zznav.com/</id>
   <generator uri="http://gitcafe.com/lizheming/pmblog">PMBlog</generator>
 
+    <entry>
+    <title type="html"><![CDATA[Highspeedweb-OpenVZ 128MB 10GB 250GB $10/年]]></title>
+    <link href="http://www.zznav.com/7.html"/>
+    <id>http://www.zznav.com/7.html</id>
+    <updated>2013-11-15T00:00:00+08:00</updated>
+    <content type="html"><![CDATA[<p><img src="image/highspeedweb.jpg" alt="" />
+Highspeedweb是一家老牌国外主机商，域名注册时间是1999年，本次提供了多个优惠套餐，最低款年付只要10美元，数据中心位于洛杉矶PR机房，国内方位速度不错，走香港的PCCW线路。<!--more--><br />
+PS：注意，他们家是没有vSwap</p>
+
+<h1>OVZ128 VPS</h1>
+
+<blockquote>
+  <p>10GB Disk<br />
+  250GB Bandwidth<br />
+  128MB Memory<br />
+  1 IPv4 Address<br />
+  1 Ipv6 Address<br />
+  $10/年 | <a href="https://billing.highspeedweb.net/cart.php?a=add&amp;pid=8325">购买链接</a> </p>
+</blockquote>
+
+<h1>OVZ256 VPS</h1>
+
+<blockquote>
+  <p>30GB Disk
+  500GB Bandwidth
+  256MB Memory
+  1 IPv4 Address
+  1 Ipv6 Address
+  $15/年 | <a href="https://billing.highspeedweb.net/cart.php?a=add&amp;pid=8328">购买链接</a> </p>
+</blockquote>
+
+<h1>OVZ512</h1>
+
+<p>60GB Disk
+800GB Bandwidth
+512MB Memory
+1 IPv4 Address
+1 Ipv6 Address
+$3/月 | <a href="https://billing.highspeedweb.net/cart.php?a=add&amp;pid=8329">购买链接</a></p>
+
+<h1>测试地址</h1>
+
+<p>Test IP 216.189.55.2 Los Angeles CA (QuadraNet)</p>
+]]></content>
+  </entry>
     <entry>
     <title type="html"><![CDATA[VMBox-OpenVZ 3GB 50GB 1TB $7/月]]></title>
     <link href="http://www.zznav.com/6.html"/>
     <id>http://www.zznav.com/6.html</id>
     <updated>2013-11-14T00:00:00+08:00</updated>
     <content type="html"><![CDATA[<p><img src="image/vmbox.jpg" alt="" />
-VMBox又是一家新开的主机商本次提供大内存的VPS促销活动，数据中心在凤凰城和荷兰，提供每个的SSL。</p>
+VMBox又是一家新开的主机商本次提供大内存的VPS促销活动，数据中心在凤凰城和荷兰，提供每个的SSL。<!--more--><br /></p>
 
 <h1>3GB vps</h1>
 
@@ -26,7 +71,7 @@ VMBox又是一家新开的主机商本次提供大内存的VPS促销活动，数
   1Gbps Port<br />
   1 IPv4 Address<br /></p>
   
-  <p>$7/Month | <a href="https://my.vmbox.co/cart.php?a=add&amp;pid=66">凤凰城购买链接</a> | <a href="https://my.vmbox.co/cart.php?a=add&amp;pid=63">荷兰购买链接</a></p>
+  <p>$7/月 | <a href="https://my.vmbox.co/cart.php?a=add&amp;pid=66">凤凰城购买链接</a> | <a href="https://my.vmbox.co/cart.php?a=add&amp;pid=63">荷兰购买链接</a></p>
 </blockquote>
 
 <h1>测试地址</h1>
