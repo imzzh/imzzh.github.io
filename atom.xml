@@ -4,7 +4,7 @@
   <title><![CDATA[站长导航]]></title>
   <link href="http://www.zznav.com/atom.xml" rel="self"/>
   <link href="http://www.zznav.com/"/>
-  <updated>2013-11-15T14:44:13+08:00</updated>
+  <updated>2013-11-15T14:49:23+08:00</updated>
   <id>http://www.zznav.com/</id>
   <generator uri="http://gitcafe.com/lizheming/pmblog">PMBlog</generator>
 
@@ -41,12 +41,14 @@ PS：注意，他们家是没有vSwap</p>
 
 <h1>OVZ512</h1>
 
-<p>60GB Disk
-800GB Bandwidth
-512MB Memory
-1 IPv4 Address
-1 Ipv6 Address
-$3/月 | <a href="https://billing.highspeedweb.net/cart.php?a=add&amp;pid=8329">购买链接</a></p>
+<blockquote>
+  <p>60GB Disk<br />
+  800GB Bandwidth<br />
+  512MB Memory<br />
+  1 IPv4 Address<br />
+  1 Ipv6 Address<br />
+  $3/月 | <a href="https://billing.highspeedweb.net/cart.php?a=add&amp;pid=8329">购买链接</a></p>
+</blockquote>
 
 <h1>测试地址</h1>
 
@@ -54,7 +56,7 @@ $3/月 | <a href="https://billing.highspeedweb.net/cart.php?a=add&amp;pid=8329">
 ]]></content>
   </entry>
     <entry>
-    <title type="html"><![CDATA[HardCloud-KVM 256MB 10GB 512GB $2.2/月]]></title>
+    <title type="html"><![CDATA[HardCloud-KVM 256MB 10GB 512GB G口 多数据中心$2.2/月]]></title>
     <link href="http://www.zznav.com/8.html"/>
     <id>http://www.zznav.com/8.html</id>
     <updated>2013-11-15T00:00:00+08:00</updated>
