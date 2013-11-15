@@ -63,155 +63,160 @@
 		<loc>http://www.zznav.com/page/1.html</loc>
 		<priority>0.8</priority>
 		<changefreq>daily</changefreq>
-		<lastmod>2013-11-15T14:49:23+08:00</lastmod>
+		<lastmod>2013-11-15T15:02:19+08:00</lastmod>
 	</url><url>
 		<loc>http://www.zznav.com/page/2.html</loc>
 		<priority>0.8</priority>
 		<changefreq>daily</changefreq>
-		<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-	</url><url><loc>http://www.zznav.com/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+		<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+	</url><url><loc>http://www.zznav.com/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/category/company/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/category/company/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/category/company/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/category/domain/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/category/domain/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/category/domain/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/category/vps/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
 		</url><url>
 			<loc>http://www.zznav.com/category/vps/page/2</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/category/vps/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/category/vps/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/godaddy/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/godaddy/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/godaddy/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/支付宝/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/支付宝/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/支付宝/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/域名/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/域名/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/域名/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/优惠码/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/优惠码/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/优惠码/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/hudsonvalleyhost/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/hudsonvalleyhost/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/hudsonvalleyhost/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/openvz/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/openvz/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/openvz/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/128mb/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/128mb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/128mb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/200gb/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/200gb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/200gb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/年付/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/年付/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/年付/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/多数据中心/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/多数据中心/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/多数据中心/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/alpharacks/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/alpharacks/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/alpharacks/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/256mb/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/256mb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/256mb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/500gb/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/500gb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/500gb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/洛杉矶/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/洛杉矶/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/洛杉矶/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/xlvps/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/xlvps/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/xlvps/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/kvm/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/kvm/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/kvm/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/100gb/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/100gb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/100gb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/prohostingserver/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/prohostingserver/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/prohostingserver/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/vmbox/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/vmbox/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/vmbox/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/大内存/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/大内存/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/大内存/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/大流量/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/大流量/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/大流量/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/凤凰城/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/凤凰城/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/凤凰城/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/highspeedweb/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/highspeedweb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/highspeedweb/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/hardcloud/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/hardcloud/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url><url>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/hardcloud/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
+			<loc>http://www.zznav.com/tag/SSD缓存/page/1</loc>
+			<priority>0.8</priority>
+			<changefreq>daily</changefreq>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/SSD缓存/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url><url>
 			<loc>http://www.zznav.com/tag/拉斯维加斯/page/1</loc>
 			<priority>0.8</priority>
 			<changefreq>daily</changefreq>
-			<lastmod>2013-11-15T14:49:23+08:00</lastmod>
-		</url><url><loc>http://www.zznav.com/tag/拉斯维加斯/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T14:49:23+08:00</lastmod></url></urlset>
+			<lastmod>2013-11-15T15:02:19+08:00</lastmod>
+		</url><url><loc>http://www.zznav.com/tag/拉斯维加斯/index.html</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2013-11-15T15:02:19+08:00</lastmod></url></urlset>
